@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
 .App {
   text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  
+  
+  
+}
+
+.main{
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 5px 8px #888888;
+  width: 1040px;
 }
 
 .App-logo {
@@ -34,5 +48,18 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 1040px) {
+  .main{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .main{
+    margin-top: 0;
+    margin-bottom: 0;
+    box-shadow: none;
   }
 }
