@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alg-visualizer/static/css/main.710d05f3.chunk.css",
-    "main.js": "/alg-visualizer/static/js/main.2ffa5147.chunk.js",
-    "main.js.map": "/alg-visualizer/static/js/main.2ffa5147.chunk.js.map",
+    "main.js": "/alg-visualizer/static/js/main.a863865f.chunk.js",
+    "main.js.map": "/alg-visualizer/static/js/main.a863865f.chunk.js.map",
     "runtime-main.js": "/alg-visualizer/static/js/runtime-main.4a4776eb.js",
     "runtime-main.js.map": "/alg-visualizer/static/js/runtime-main.4a4776eb.js.map",
     "static/js/2.de015e1b.chunk.js": "/alg-visualizer/static/js/2.de015e1b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4a4776eb.js",
     "static/js/2.de015e1b.chunk.js",
     "static/css/main.710d05f3.chunk.css",
-    "static/js/main.2ffa5147.chunk.js"
+    "static/js/main.a863865f.chunk.js"
   ]
 }
