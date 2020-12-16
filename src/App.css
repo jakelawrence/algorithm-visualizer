@@ -51,6 +51,24 @@
   }
 }
 
+
+::-webkit-scrollbar {
+  width: 2cpx;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
 @media only screen and (max-width: 1040px) {
   .main{
     width: 100%;
