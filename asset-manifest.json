@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alg-visualizer/static/css/main.710d05f3.chunk.css",
+    "main.css": "/alg-visualizer/static/css/main.b640a291.chunk.css",
     "main.js": "/alg-visualizer/static/js/main.a863865f.chunk.js",
     "main.js.map": "/alg-visualizer/static/js/main.a863865f.chunk.js.map",
     "runtime-main.js": "/alg-visualizer/static/js/runtime-main.4a4776eb.js",
@@ -10,13 +10,13 @@
     "static/js/3.47af94ef.chunk.js": "/alg-visualizer/static/js/3.47af94ef.chunk.js",
     "static/js/3.47af94ef.chunk.js.map": "/alg-visualizer/static/js/3.47af94ef.chunk.js.map",
     "index.html": "/alg-visualizer/index.html",
-    "static/css/main.710d05f3.chunk.css.map": "/alg-visualizer/static/css/main.710d05f3.chunk.css.map",
+    "static/css/main.b640a291.chunk.css.map": "/alg-visualizer/static/css/main.b640a291.chunk.css.map",
     "static/js/2.de015e1b.chunk.js.LICENSE.txt": "/alg-visualizer/static/js/2.de015e1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4a4776eb.js",
     "static/js/2.de015e1b.chunk.js",
-    "static/css/main.710d05f3.chunk.css",
+    "static/css/main.b640a291.chunk.css",
     "static/js/main.a863865f.chunk.js"
   ]
 }
