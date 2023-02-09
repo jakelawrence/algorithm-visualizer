@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-A live demo of the Connect 4 AI application can be found at https://jakelawrence.github.io/algorithm-visualizer
+A live demo of the Algorithm Visualizer application can be found at https://jakelawrence.github.io/algorithm-visualizer
 
 ![Algorithm Visualizer](https://raw.githubusercontent.com/jakelawrence/algorithm-visualizer/master/img/algorithm-visualizer.png?raw=true)
 
