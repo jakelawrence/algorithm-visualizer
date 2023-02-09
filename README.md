@@ -4,7 +4,7 @@
 
 A live demo of the Connect 4 AI application can be found at https://jakelawrence.github.io/algorithm-visualizer
 
-![Algorithm Visualizer](https://raw.githubusercontent.com/jakelawrence/algorithm-visualizer/master/img/algorithm-visualizer.jpg?raw=true)
+![Algorithm Visualizer](https://raw.githubusercontent.com/jakelawrence/algorithm-visualizer/master/img/algorithm-visualizer.png?raw=true)
 
 A React Application that visualizes the five commonly used sorting algorithms - Bubble Sort, Selection Sort, Merge Sort, Quick Sort and Heap Sort. Includes a sort speed selector with five different speeds: Very Fast, Fast, Normal, Slow, and Sloth.
 
